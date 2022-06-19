@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\Bill\source\repos\test1\test1\lookback_option.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Bill\source\repos\test1\test1\lookback_option.h(32,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Bill\source\repos\test1\test1\Asian_options.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Bill\source\repos\test1\test1\Asian_options.h(62,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\Bill\source\repos\test1\test1\Asian_options.h(87,23): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Bill\source\repos\test1\test1\Asian_options.h(112,23): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Bill\source\repos\test1\test1\MyForm.cpp(6,1): warning C4829: 函式 main 的參數可能不正確。請考慮 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  test1.vcxproj -> C:\Users\Bill\source\repos\test1\x64\Debug\test1.exe
